@@ -1,0 +1,25 @@
+ul+img {
+    margin-right: 2%;
+    margin-top: 3%;
+    float: right;
+    margin-bottom: 5%;
+}
+
+img+h1 {
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-right: 50%;
+    font-size: 5em;
+    color: gold;
+    border-bottom: solid 5px white;
+}
+
+#whysec {
+    margin-left: 5%;
+    margin-right: 5%;
+    clear: both;
+    font-size: 1.25em;
+    background-color: rgba(128, 128, 128, 0.8);
+    padding: 5px 25px;
+    border-radius: 20px;
+}

@@ -1,0 +1,39 @@
+.anuban {
+    float: left;
+    margin-left: 8%;
+    text-align: center;
+}
+
+.sattha {
+    float: left;
+    margin-left: 12%;
+    text-align: center;
+}
+
+.kmutt {
+    float: left;
+    margin-left: 12%;
+    text-align: center;
+}
+
+div>img {
+    border-radius: 25%;
+    box-shadow: 10px 10px black;
+    background-color: white;
+}
+
+ul+p {
+    margin-top: 2%;
+    margin-left: 7%;
+    font-size: 3em;
+    color: gold;
+    border-bottom: solid 5px white;
+}
+
+.detail {
+    margin: 50px 0;
+    background-color: rgba(128, 128, 128, 0.8);
+    padding: 5px 25px;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}

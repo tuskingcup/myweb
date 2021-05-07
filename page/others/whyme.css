@@ -1,0 +1,27 @@
+ul+p {
+    margin-left: 7%;
+    margin-top: 2%;
+    border-bottom: solid 5px white;
+    font-size: 3em;
+    color: gold;
+}
+
+p+img {
+    width: 32%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px gold;
+    float: left;
+    border-radius: 20px;
+}
+
+img+p {
+    margin-top: 3%;
+    margin-left: 15%;
+    float: left;
+    width: 400px;
+    background-color: rgba(128, 128, 128, 0.8);
+    padding: 5px 25px;
+    border-radius: 20px;
+    font-size: 1.25em
+}
